@@ -51,5 +51,3 @@ To run the project locally, follow these steps:
    ```  
 
 ---  
-
-This keeps the essence of your project while making the wording unique to you! Let me know if you need any tweaks. 🚀
